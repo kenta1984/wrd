@@ -10,7 +10,7 @@ See the details in the [paper](https://arxiv.org/abs/2004.15003v1).
 - [POT](https://pythonot.github.io/)
 
 ### Download pre-trained vectors for Word2vec
-From [this site](https://github.com/singletongue/WikiEntVec/releases), download pre-trained vectors trained on Japanese Wikipedia.
+From [this site](https://github.com/singletongue/WikiEntVec/releases), download pre-trained vectors trained on Japanese Wikipedia and set it in `vecs` directory.
 `jawiki.word_vectors.200d.txt.bz2` is recommended.
 
 If you want, your original pre-trained vectors could be used.
