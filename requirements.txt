@@ -1,0 +1,4 @@
+gensim==3.8.3
+numpy==1.19.2
+mecab-python3==1.0.1
+POT==0.7.0
